@@ -1,0 +1,7 @@
+
+The experiment to make the code more efficient is to add two more data types. 
+I added two more data types to make the comparison of ints more broad.
+I added two extra testing numbers to test the efficiency of the computer by handling more data sets.
+This provides more data variety since its not just a Vector(ArrayList), LinkedList and an Array. 
+The two data types I am adding are lists and HashSets.
+
