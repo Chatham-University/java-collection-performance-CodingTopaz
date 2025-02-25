@@ -21,6 +21,10 @@ var regularListDemo = new ListDemo(num, rand);
 stopwatch.Stop();
 Console.WriteLine("did regular list in "+stopwatch.Elapsed);
 
+stopwatch.Restart();
+var linkedListDemo = new LinkedListDemo(num, rand);
+stopwatch.Stop();
+Console.WriteLine("did linkedlistdemo in "+stopwatch.Elapsed);
 
 stopwatch.Restart();
 var ArrayListVectorDemo = new ArrayListVectorDemo(num, rand);
