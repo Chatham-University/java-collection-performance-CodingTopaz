@@ -1,7 +1,18 @@
+The experiment to make the code more efficient is to add two more data types.
+This makes the comparison of ints more broad. 
+The data types I added were Lists and HashSets.
+ I also added two extra testing numbers to test the computer’s efficiency of the computer by handling more data sets. 
+This experiment will work with the first 3 digits.
+ It will add 3 more in each test to the power of 5 to continue to test the computer’s efficiency.
+ Setting, it to the power of 5, will allow the user to add more testing numbers without crashing the program. 
 
-The experiment to make the code more efficient is to add two more data types. 
-I added two more data types to make the comparison of ints more broad.
-I added two extra testing numbers to test the efficiency of the computer by handling more data sets.
-This provides more data variety since its not just a Vector(ArrayList), LinkedList and an Array. 
-The two data types I am adding are lists and HashSets. This expermient will work with the first 3 digits
+
+The experiment concluded that an Array was the most efficient data type for the experiment. The Array was faster than all the data types, with an average of 0.0056.
+ In the first test, the Array had an identical time to the list with 0.0008. 
+However, in test two, when the data was added to 3 more by the power of 5.
+ The first time the differences became clearer, Array came out to be the fastest with a time of 0.006. However, in the last test, ArrayList came out to be the fastest, but when Array was averaged against it, it was still the fastest with the 0.0008 seconds to the 0.0146 of ArrayList. 
+ Another notable outcome of the experiment is the importance of testing a data set multiple times, with more frequent tests run on the data, the results become even more accurate than average.
+The addition of the other data types created more variety to emphasize this exact idea.
+ The variety of data types provided more clarity about the efficiency of each data type, especially in this specific scenario. 
+Essentially, the data shows how one data structure can be more efficient than others in a specific coding scenario.
 
